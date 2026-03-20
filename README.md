@@ -1,4 +1,4 @@
-* La solución más efectiva es obligar a las empresas por ley a facilitar la vida útil de los productos *
+** La solución más efectiva es obligar a las empresas por ley a facilitar la vida útil de los productos **
 
 
 - Índice de reparabilidad: Implementar etiquetas obligatorias (como ya se hace en Francia) que califiquen del 1 al 10 qué tan fácil es arreglar un dispositivo.
